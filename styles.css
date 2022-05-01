@@ -78,7 +78,7 @@ hr{
 .attribution a {
     text-decoration: none;
     font-size: .8rem;
-    color: blue;
+    color: yellow;
 }
 
 /* Mobile View */
@@ -88,7 +88,7 @@ hr{
      background-position: top -600px left -700px, bottom -700px right -700px;
     }
     main{
-        padding: 25% 15%;
+        padding: 25% 8%;
     }
 }
 
