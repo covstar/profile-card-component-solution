@@ -44,7 +44,7 @@ main{
 
 /* Card Rate */
 
-span, p{
+span{
     color: #969696;
      font-weight: 400;
 }
